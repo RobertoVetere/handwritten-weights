@@ -1,0 +1,12 @@
+# model weights and generated artifacts (downloaded / rebuilt by `make setup`)
+*.bin
+*.pt
+__pycache__/
+*.pyc
+src/*.json
+adder_from_scratch/*.json
+adder_from_scratch/*.jsonl
+paper/**/*.aux
+paper/**/*.log
+paper/**/*.out
+.DS_Store

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Writing New Capabilities into a Pretrained Language Model by Hand"
+type: software
+authors:
+  - family-names: Vetere
+    given-names: Roberto
+date-released: 2026-11-05
+license: MIT
+repository-code: "https://github.com/RobertoVetere/handwritten-weights"
+keywords: [weight-space programming, mechanistic interpretability, model editing, transformers, llama2.c]
